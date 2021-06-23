@@ -382,25 +382,24 @@ img .hojas{
     max-width: 100%;
     height: 100vw;
 }
-/*SECCION RESTAURANT*/
-    .restaurant {
+/*SECCION VIDEOS*/
+    .video {
         background-color:#8769D3;
         padding: 3rem;
     }
-    .restaurant h1{
+    .video h1{
         color: #C5B4F1;
         text-align: center;
         font-family: 'Fredoka One', cursive;
     }
-    .restaurant p{
+    .video p{
         color: black;
         text-align: center;
         font-size: 1.6em;
         font-family: 'Roboto', sans-serif;
     }
     
-    /*FIN COMIDAS*/
-
+    /*FIN VIDEOS*/
 
     /*RECURSOS*/
     /*ACTIVISMO*/
